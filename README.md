@@ -1,0 +1,1 @@
+This is Jeanette's first Git project!
